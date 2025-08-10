@@ -1,0 +1,6 @@
+ipykernel
+yfinance
+pandas
+numpy
+streamlit
+plotly.express
